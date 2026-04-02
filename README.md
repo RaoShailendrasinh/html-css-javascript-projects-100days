@@ -1,1 +1,1 @@
-# html-css-javascript-projects-100days
+# html-css-javascript-projects
